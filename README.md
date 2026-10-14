@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I'm currently growing in cloud computing, infrastructure
-- 💻 I'm interested cloud computing, web dev, 
+- 💻 I'm interested cloud computing, Systems design, automation and reliability, business 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/toluwalope-o-53600ba1)
 
 ## Projects
